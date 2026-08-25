@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="./assets/header.svg" alt="Luis Filipe — LuisFilipeOliveiraSantos"/>
+  <img width="100%" src="./assets/header.svg" alt="Luis Filipe"/>
 </div>
 
 <div align="center">
@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=2500&color=E8A525&center=true&vCenter=true&width=500&lines=Whatever+happens%2C+happens.;3...2...1...Let's+jam!;Backend+%C2%B7+Full-Stack+Developer" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=2500&color=E8A525&center=true&vCenter=true&width=500&lines=Whatever+happens%2C+happens.;Backend+%C2%B7+Full-Stack+Developer" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -20,20 +20,63 @@
   <a href="mailto:filipebsg2@gmail.com">
     <img src="https://img.shields.io/badge/Email-0D0B0E?style=flat-square&logo=gmail&logoColor=E8A525" alt="Email"/>
   </a>
-  &nbsp;
 </div>
 
-<br/>
+---
+
+### // About
+
+<img src="./assets/Pepelu.gif" width="140" align="right" alt="Ed"/>
+
+> *"I'm not going there to die. I'm going to find out if I'm really alive."* — Spike
+
+Desenvolvedor Full Stack com experiencia em aplicacoes web em producao, atuando com **Python** (Django/FastAPI), **APIs REST**, **PostgreSQL**, **MongoDB** e pipelines ETL.
+
+Vivencia em IoT (ESP32/C++), mobile (Flutter) e Machine Learning.
+
+Graduando em **Sistemas de Informacao** pela UFRPE, com certificacoes **AWS** e atuacao em ambientes ageis.
+
+<br clear="right"/>
+
+---
+
+### // Featured Projects
+
+> *"The past is the past and the future is the future. A man is a man and a woman is a woman."* — Faye Valentine
 
 <table>
   <tr>
-    <td width="60%" valign="top">
-      <h3>// About</h3>
-      <blockquote><i>"I'm not going there to die. I'm going to find out if I'm really alive."</i> — Spike</blockquote>
-      <p>Desenvolvedor Full Stack com experiencia em aplicacoes web em producao — <b>Python</b> (Django/FastAPI), <b>APIs REST</b>, <b>PostgreSQL</b>, <b>MongoDB</b> e pipelines ETL. Vivencia em IoT (ESP32/C++), mobile (Flutter) e Machine Learning. Graduando em <b>Sistemas de Informacao</b> pela UFRPE, com certificacoes <b>AWS</b> e atuacao em ambientes ageis.</p>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/LuisFilipeOliveiraSantos/ecocyclo_back">ecocyclo_back</a></h3>
+      <p>API REST gamificada para descarte de lixo eletronico, com sistema de pontos, conquistas e registros de descarte. Documentacao automatica via Swagger/ReDoc.</p>
+      <img src="https://img.shields.io/badge/Python-0D0B0E?style=flat-square&logo=python&logoColor=E8A525" alt="Python"/>
+      <img src="https://img.shields.io/badge/FastAPI-0D0B0E?style=flat-square&logo=fastapi&logoColor=E8A525" alt="FastAPI"/>
+      <img src="https://img.shields.io/badge/MongoDB-0D0B0E?style=flat-square&logo=mongodb&logoColor=E8A525" alt="MongoDB"/>
+      <img src="https://img.shields.io/badge/Docker-0D0B0E?style=flat-square&logo=docker&logoColor=E8A525" alt="Docker"/>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="./assets/Pepelu.gif" width="180" alt="Ed — Cowboy Bebop"/>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/LuisFilipeOliveiraSantos/tempozero-back">tempozero-back</a></h3>
+      <p>API REST para sistema automatizado de gerenciamento de apostas esportivas, com machine learning para analise de dados e previsoes de apoio a decisao.</p>
+      <img src="https://img.shields.io/badge/Python-0D0B0E?style=flat-square&logo=python&logoColor=E8A525" alt="Python"/>
+      <img src="https://img.shields.io/badge/FastAPI-0D0B0E?style=flat-square&logo=fastapi&logoColor=E8A525" alt="FastAPI"/>
+      <img src="https://img.shields.io/badge/MongoDB-0D0B0E?style=flat-square&logo=mongodb&logoColor=E8A525" alt="MongoDB"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/LuisFilipeOliveiraSantos/pullebyte-analises">pullebyte-analises</a></h3>
+      <p>Dashboard interativo de data science com analise exploratoria, modelos de classificacao e interpretabilidade via SHAP.</p>
+      <img src="https://img.shields.io/badge/Python-0D0B0E?style=flat-square&logo=python&logoColor=E8A525" alt="Python"/>
+      <img src="https://img.shields.io/badge/Streamlit-0D0B0E?style=flat-square&logo=streamlit&logoColor=E8A525" alt="Streamlit"/>
+      <img src="https://img.shields.io/badge/Scikit--learn-0D0B0E?style=flat-square&logo=scikit-learn&logoColor=E8A525" alt="Scikit-learn"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/LuisFilipeOliveiraSantos/soiltune">soiltune</a></h3>
+      <p>Sistema IoT de coleta e transmissao de dados industriais em tempo real para calibracao de sensores de umidade do solo, com firmware em C/C++ para ESP32.</p>
+      <img src="https://img.shields.io/badge/C++-0D0B0E?style=flat-square&logo=cplusplus&logoColor=E8A525" alt="C++"/>
+      <img src="https://img.shields.io/badge/ESP32-0D0B0E?style=flat-square&logo=espressif&logoColor=E8A525" alt="ESP32"/>
+      <img src="https://img.shields.io/badge/AWS-0D0B0E?style=flat-square&logo=amazonwebservices&logoColor=E8A525" alt="AWS"/>
+      <img src="https://img.shields.io/badge/Docker-0D0B0E?style=flat-square&logo=docker&logoColor=E8A525" alt="Docker"/>
     </td>
   </tr>
 </table>
@@ -46,7 +89,7 @@
 
 **Backend & APIs**
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,java,ts,js,selenium&theme=dark" alt="Backend langs"/>
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,java,ts,js,selenium&theme=dark" alt="Backend"/>
 
 **Frontend & Mobile**
 
@@ -79,7 +122,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuisFilipeOliveiraSantos/LuisFilipeOliveiraSantos/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuisFilipeOliveiraSantos/LuisFilipeOliveiraSantos/output/github-contribution-grid-snake.svg"/>
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/LuisFilipeOliveiraSantos/LuisFilipeOliveiraSantos/output/github-contribution-grid-snake.svg"/>
+    <img alt="Contributions" src="https://raw.githubusercontent.com/LuisFilipeOliveiraSantos/LuisFilipeOliveiraSantos/output/github-contribution-grid-snake.svg"/>
   </picture>
 </div>
 
