@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 80" width="900" height="80">
+  <defs>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0D0B0E" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0D0B0E"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .drift { animation: scroll 30s linear infinite; }
+    @keyframes scroll { from { transform: translateX(0); } to { transform: translateX(-900px); } }
+    @media (prefers-reduced-motion: reduce) { .drift { animation: none; } }
+  </style>
+
+  <rect width="900" height="80" fill="#0D0B0E"/>
+
+  <g class="drift" fill="none" stroke="#3D3226" stroke-width="0.6" opacity="0.4">
+    <path d="M 0,20 Q 112,10 225,20 Q 337,30 450,20 Q 562,10 675,20 Q 787,30 900,20 Q 1012,10 1125,20 Q 1237,30 1350,20 Q 1462,10 1575,20 Q 1687,30 1800,20"/>
+    <path d="M 0,40 Q 112,32 225,40 Q 337,48 450,40 Q 562,32 675,40 Q 787,48 900,40 Q 1012,32 1125,40 Q 1237,48 1350,40 Q 1462,32 1575,40 Q 1687,48 1800,40"/>
+    <path d="M 0,60 Q 112,54 225,60 Q 337,66 450,60 Q 562,54 675,60 Q 787,66 900,60 Q 1012,54 1125,60 Q 1237,66 1350,60 Q 1462,54 1575,60 Q 1687,66 1800,60"/>
+  </g>
+
+  <text x="450" y="45"
+    font-family="'Courier New', Consolas, monospace"
+    font-size="11" letter-spacing="0.30em" font-weight="400"
+    fill="#E8A525" text-anchor="middle" opacity="0.85">SEE YOU SPACE COWBOY . . .</text>
+</svg>
